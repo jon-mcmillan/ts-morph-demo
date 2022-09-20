@@ -1,0 +1,13 @@
+{
+  "name": "ts-morph-demo",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "dependencies": {
+    "jest": "^29.0.3",
+    "ts-morph": "^16.0.0",
+    "typescript": "^4.8.3"
+  }
+}
